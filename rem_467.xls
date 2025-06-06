@@ -1,0 +1,26 @@
+
+
+<!-- header("Expires: 0");-->
+
+<html>
+    <HEAD>
+        <TITLE>REM: Genera reporte REM</TITLE>
+        <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+        <!--
+        --> 
+    </HEAD>
+    <script language="JavaScript">
+        function ejecuta_siguiente(mes_estadistico, agno_estadistico, establecimiento, dependencias, serie, nombre_serie, cod_rem, archivo_xls, serie)
+        {
+            setTimeout(5000);
+            alert('djkasdjkjdk');
+            url = 'rem_dibuja_REM_xls.php?accion=0?&rem=' + cod_rem + '&mes_estadistico=' + mes_estadistico + '&agno_estadistico=' + agno_estadistico + '&establecimiento=' + establecimiento + '&dependencias=' + dependencias + '&archivo_xls=' + archivo_xls;
+            url = url + '&serie=' + serie;
+            alert(url);
+            window.open('url', '', 'scrollbars=no,status=no,toolbar=no,directories=no,menubar=no,resizable=no,left=350,top=220,width=1,height=1,fullscreen=no');
+        }
+
+    </script>
+
+    <body onunload='window,close();'></center></center><table width=100% cellspacing=0 cellpadding=0><tr><td align=left width=70%><font size=1 color='#330066'> DIRECCIÓN SERVICIO DE SALUD DEL MAULE</td></tr><tr><td align=left><font size=1 color='#330066'> COMUNA : 07302  HUALANE</td></tr><tr><td align=left><font size=1 color='#330066'> ESTABLECIMIENTO : Hospital de Hualañé</td></tr><tr><td align=left><font size=1 color='#330066'> MES : Mayo AÑO : 2025</td></tr><tr><td align=left><font size=1 color='#330066'> Fecha y Hora Reporte:05/06/2025 - 12:30:39 hrs.</td></tr></table><center><font size=2 color='#330066'><b>MEDICINA PALIATIVA Y DE MANEJO DEL DOLOR-</center><br><br><font size=1 color='#330066'><b>ATENCIÓN DE ESPECIALIDADES </b><br><TABLE cellspacing='0' cellpadding='1' frame=box rules=all bgcolor='#fdfbfe' border=1><tr></tr></table><font size=1></body>
+</html>
