@@ -60,7 +60,10 @@ td
 	{mso-style-parent:style0;
 	font-size:7.5pt;
 	text-align:center;
-	border:.5pt solid black;
+	border-top:none;
+	border-right:.5pt solid black;
+	border-bottom:.5pt solid black;
+	border-left:none;
 	background:#FDFBFE;
 	mso-pattern:black none;
 	white-space:normal;}
@@ -68,9 +71,9 @@ td
 	{mso-style-parent:style0;
 	font-size:7.5pt;
 	text-align:center;
-	border-top:.5pt solid black;
+	border-top:none;
 	border-right:.5pt solid black;
-	border-bottom:none;
+	border-bottom:.5pt solid black;
 	border-left:.5pt solid black;
 	background:#FDFBFE;
 	mso-pattern:black none;
@@ -82,51 +85,33 @@ td
 	border-top:none;
 	border-right:.5pt solid black;
 	border-bottom:.5pt solid black;
-	border-left:.5pt solid black;
-	background:#FDFBFE;
+	border-left:none;
+	background:yellow;
 	mso-pattern:black none;
 	white-space:normal;}
 .xl70
 	{mso-style-parent:style0;
+	color:#330066;
 	font-size:7.5pt;
-	text-align:center;
-	border-top:.5pt solid black;
-	border-right:none;
-	border-bottom:.5pt solid black;
-	border-left:.5pt solid black;
-	background:#FDFBFE;
-	mso-pattern:black none;
-	white-space:normal;}
+	font-weight:700;
+	border:.5pt solid black;}
 .xl71
 	{mso-style-parent:style0;
-	font-size:7.5pt;
-	text-align:center;
-	border-top:.5pt solid black;
-	border-right:none;
-	border-bottom:.5pt solid black;
-	border-left:none;
-	background:#FDFBFE;
-	mso-pattern:black none;
-	white-space:normal;}
+	border:.5pt solid black;}
 .xl72
+	{mso-style-parent:style0;
+	color:#330066;
+	font-size:10.0pt;
+	font-weight:700;
+	text-align:center;
+	white-space:normal;}
+.xl73
 	{mso-style-parent:style0;
 	font-size:7.5pt;
 	text-align:center;
 	border-top:.5pt solid black;
 	border-right:.5pt solid black;
-	border-bottom:.5pt solid black;
-	border-left:none;
-	background:#FDFBFE;
-	mso-pattern:black none;
-	white-space:normal;}
-.xl73
-	{mso-style-parent:style0;
-	font-size:7.5pt;
-	font-weight:700;
-	text-align:left;
-	border-top:.5pt solid black;
-	border-right:none;
-	border-bottom:.5pt solid black;
+	border-bottom:none;
 	border-left:.5pt solid black;
 	background:#FDFBFE;
 	mso-pattern:black none;
@@ -134,8 +119,7 @@ td
 .xl74
 	{mso-style-parent:style0;
 	font-size:7.5pt;
-	font-weight:700;
-	text-align:left;
+	text-align:center;
 	border-top:.5pt solid black;
 	border-right:none;
 	border-bottom:.5pt solid black;
@@ -146,6 +130,52 @@ td
 .xl75
 	{mso-style-parent:style0;
 	font-size:7.5pt;
+	text-align:center;
+	border-top:.5pt solid black;
+	border-right:none;
+	border-bottom:.5pt solid black;
+	border-left:.5pt solid black;
+	background:#FDFBFE;
+	mso-pattern:black none;
+	white-space:normal;}
+.xl76
+	{mso-style-parent:style0;
+	font-size:7.5pt;
+	text-align:center;
+	border-top:.5pt solid black;
+	border-right:.5pt solid black;
+	border-bottom:.5pt solid black;
+	border-left:none;
+	background:#FDFBFE;
+	mso-pattern:black none;
+	white-space:normal;}
+.xl77
+	{mso-style-parent:style0;
+	font-size:7.5pt;
+	font-weight:700;
+	text-align:left;
+	border-top:.5pt solid black;
+	border-right:none;
+	border-bottom:.5pt solid black;
+	border-left:.5pt solid black;
+	background:#FDFBFE;
+	mso-pattern:black none;
+	white-space:normal;}
+.xl78
+	{mso-style-parent:style0;
+	font-size:7.5pt;
+	font-weight:700;
+	text-align:left;
+	border-top:.5pt solid black;
+	border-right:none;
+	border-bottom:.5pt solid black;
+	border-left:none;
+	background:#FDFBFE;
+	mso-pattern:black none;
+	white-space:normal;}
+.xl79
+	{mso-style-parent:style0;
+	font-size:7.5pt;
 	font-weight:700;
 	text-align:left;
 	border-top:.5pt solid black;
@@ -155,27 +185,14 @@ td
 	background:#FDFBFE;
 	mso-pattern:black none;
 	white-space:normal;}
-.xl76
-	{mso-style-parent:style0;
-	border:.5pt solid black;}
-.xl77
-	{mso-style-parent:style0;
-	color:#330066;
-	font-size:7.5pt;
-	font-weight:700;
-	border:.5pt solid black;}
-.xl78
-	{mso-style-parent:style0;
-	color:#330066;
-	font-size:10.0pt;
-	font-weight:700;
-	text-align:center;
-	white-space:normal;}
-.xl79
+.xl80
 	{mso-style-parent:style0;
 	font-size:7.5pt;
 	text-align:center;
-	border:.5pt solid black;
-	background:yellow;
+	border-top:none;
+	border-right:.5pt solid black;
+	border-bottom:.5pt solid black;
+	border-left:none;
+	background:#47D359;
 	mso-pattern:black none;
 	white-space:normal;}
